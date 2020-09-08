@@ -1,0 +1,25 @@
+2020-08-31 11:11:25 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:785) DruidDataSource.java INFO {dataSource-1} inited
+2020-08-31 11:11:25 com.alibaba.druid.pool.PreparedStatementPool.put(PreparedStatementPool.java:121) PreparedStatementPool.java DEBUG {conn-10005, pstmt-20000} enter cache
+2020-08-31 11:11:26 com.alibaba.druid.pool.PreparedStatementPool.put(PreparedStatementPool.java:121) PreparedStatementPool.java DEBUG {conn-10005, pstmt-20001} enter cache
+2020-08-31 11:11:26 com.alibaba.druid.pool.PreparedStatementPool.put(PreparedStatementPool.java:121) PreparedStatementPool.java DEBUG {conn-10005, pstmt-20002} enter cache
+2020-08-31 11:11:26 com.alibaba.druid.pool.PreparedStatementPool.put(PreparedStatementPool.java:121) PreparedStatementPool.java DEBUG {conn-10005, pstmt-20003} enter cache
+2020-08-31 11:11:31 com.alibaba.druid.pool.PreparedStatementPool.put(PreparedStatementPool.java:121) PreparedStatementPool.java DEBUG {conn-10005, pstmt-20004} enter cache
+2020-08-31 11:11:31 com.alibaba.druid.pool.PreparedStatementPool.put(PreparedStatementPool.java:121) PreparedStatementPool.java DEBUG {conn-10005, pstmt-20005} enter cache
+2020-08-31 11:12:00 com.alibaba.druid.pool.PreparedStatementPool.put(PreparedStatementPool.java:121) PreparedStatementPool.java DEBUG {conn-10005, pstmt-20006} enter cache
+2020-08-31 11:12:00 com.alibaba.druid.pool.PreparedStatementPool.put(PreparedStatementPool.java:121) PreparedStatementPool.java DEBUG {conn-10005, pstmt-20007} enter cache
+2020-08-31 11:12:00 com.alibaba.druid.pool.PreparedStatementPool.put(PreparedStatementPool.java:121) PreparedStatementPool.java DEBUG {conn-10005, pstmt-20008} enter cache
+2020-08-31 11:12:00 com.imissyou.log.MyLogAdvice.myAfterRet(MyLogAdvice.java:42) MyLogAdvice.java INFO Mon Aug 31 11:12:00 CST 2020|菜单列表|0:0:0:0:0:0:0:1|[{"limit":10,"offset":0,"order":"asc"}]|com.imissyou.controller.MenuController.findMenu
+2020-09-02 09:23:26 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:785) DruidDataSource.java INFO {dataSource-1} inited
+2020-09-02 09:23:26 com.alibaba.druid.pool.PreparedStatementPool.put(PreparedStatementPool.java:121) PreparedStatementPool.java DEBUG {conn-10005, pstmt-20000} enter cache
+2020-09-02 09:23:26 com.alibaba.druid.pool.PreparedStatementPool.put(PreparedStatementPool.java:121) PreparedStatementPool.java DEBUG {conn-10005, pstmt-20001} enter cache
+2020-09-02 09:23:26 com.alibaba.druid.pool.PreparedStatementPool.put(PreparedStatementPool.java:121) PreparedStatementPool.java DEBUG {conn-10005, pstmt-20002} enter cache
+2020-09-02 09:23:26 com.alibaba.druid.pool.PreparedStatementPool.put(PreparedStatementPool.java:121) PreparedStatementPool.java DEBUG {conn-10005, pstmt-20003} enter cache
+2020-09-02 09:23:30 com.alibaba.druid.pool.PreparedStatementPool.put(PreparedStatementPool.java:121) PreparedStatementPool.java DEBUG {conn-10005, pstmt-20004} enter cache
+2020-09-02 09:23:30 com.alibaba.druid.pool.PreparedStatementPool.put(PreparedStatementPool.java:121) PreparedStatementPool.java DEBUG {conn-10005, pstmt-20005} enter cache
+2020-09-02 09:23:32 com.alibaba.druid.pool.PreparedStatementPool.put(PreparedStatementPool.java:121) PreparedStatementPool.java DEBUG {conn-10005, pstmt-20006} enter cache
+2020-09-02 09:23:33 com.alibaba.druid.pool.PreparedStatementPool.put(PreparedStatementPool.java:121) PreparedStatementPool.java DEBUG {conn-10005, pstmt-20007} enter cache
+2020-09-02 09:23:33 com.alibaba.druid.pool.PreparedStatementPool.put(PreparedStatementPool.java:121) PreparedStatementPool.java DEBUG {conn-10005, pstmt-20008} enter cache
+2020-09-02 09:23:33 com.imissyou.log.MyLogAdvice.myAfterRet(MyLogAdvice.java:42) MyLogAdvice.java INFO Wed Sep 02 09:23:33 CST 2020|菜单列表|0:0:0:0:0:0:0:1|[{"limit":10,"offset":0,"order":"asc"}]|com.imissyou.controller.MenuController.findMenu
+2020-09-02 09:23:35 com.imissyou.log.MyLogAdvice.myAfterRet(MyLogAdvice.java:42) MyLogAdvice.java INFO Wed Sep 02 09:23:35 CST 2020|菜单列表|0:0:0:0:0:0:0:1|[{"limit":10,"offset":0,"order":"asc"}]|com.imissyou.controller.MenuController.findMenu
+2020-09-02 09:24:22 com.imissyou.log.MyLogAdvice.myAfterRet(MyLogAdvice.java:42) MyLogAdvice.java INFO Wed Sep 02 09:24:22 CST 2020|菜单列表|0:0:0:0:0:0:0:1|[{"limit":10,"offset":0,"order":"asc"}]|com.imissyou.controller.MenuController.findMenu
+2020-09-02 09:24:24 com.imissyou.log.MyLogAdvice.myAfterRet(MyLogAdvice.java:42) MyLogAdvice.java INFO Wed Sep 02 09:24:24 CST 2020|菜单列表|0:0:0:0:0:0:0:1|[{"limit":10,"offset":0,"order":"asc"}]|com.imissyou.controller.MenuController.findMenu
